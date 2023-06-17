@@ -6,6 +6,9 @@ body, html {
 .content {
     margin: 0 auto;
     width: 400px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
 }
 
 table, td, th {
